@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Joseph Olaide, a Machine Learning Engineer @Two
+- 👀 My interests include: Enterprise-driven Machine Learning and Machine Learning Ops
